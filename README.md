@@ -65,7 +65,7 @@ Se a promoção não tiver regras claras registradas, fuja!
 📂 7. Golpes de Aplicativos de Avaliação para Ganhar Dinheiro
 - O que é: Apps falsos que prometem dinheiro fácil para "avaliar produtos", "clicar em anúncios" ou "responder pesquisas". No final, pedem depósito ou dados bancários.
 - Exemplo real:
-  - 📰 Golpe do app de avaliações atinge milhares de vítimas — TecMundo
+  - 📰 [Golpe do app de avaliações atinge milhares de vítimas — G1](https://g1.globo.com/bom-dia-brasil/noticia/2023/09/18/golpe-da-renda-extra-promete-dinheiro-facil-para-quem-fizer-avaliacoes-na-internet-entenda-como-criminosos-agem.ghtml)
 - Sinais de alerta:
   - Promessa de ganho rápido sem esforço ("ganhe R$ 500 por dia só avaliando produtos").
   - Solicitação de pagamento inicial para "desbloquear" ganhos.
@@ -80,7 +80,7 @@ Desconfie de apps que pedem pagamento para liberar ganhos.
 📂 8. Ransomware (Sequestro de Dados)
 - O que é: Malware que bloqueia dados de uma empresa ou pessoa e exige pagamento de "resgate" para liberar.
 - Exemplo real:
-  - 📰 Ataque de ransomware paralisa sistemas da JBS, maior processadora de carne do mundo — G1
+  - 📰 [Ataque de ransomware paralisa sistemas da JBS, maior processadora de carne do mundo — CNN](https://www.cnnbrasil.com.br/economia/macroeconomia/jbs-paralisa-unidades-nos-eua-e-canada-apos-ataque-hacker/#:~:text=JBS%20paralisa%2025%20unidades%20nos%20EUA%20e%20Canad%C3%A1%20ap%C3%B3s%20ataque%20hacker,-De%20acordo%20com&text=Em%20conversa%20com%20rep%C3%B3rteres%2C%20Karine,de%20resgate%20para%20a%20libera%C3%A7%C3%A3o.)
 - Sinais de alerta:
   - Arquivos bloqueados ou criptografados.
   - Mensagem de resgate exigindo pagamento em criptomoedas.
@@ -128,7 +128,7 @@ LGPD (Lei Geral de Proteção de Dados - Lei nº 13.709/2018): Proteção de dad
 - [🔗 Apps ou Aplicações Falsas: Como Identificá-las e Evitar sua Instalação - espanhol](https://www.redseguridad.com/actualidad/cibercrimen/apps-o-aplicaciones-falsas-como-identificarlas-y-evitar-su-descarga_20220124.html) <br>
 - [🔗 Orientações sobre promoções comerciais — Ministério da Economia](https://scpc.seae.fazenda.gov.br/)
 
-✍️ Autor
+✍️ Autor: 
 Fabiano Vitor de Souza Tavares
 
 
