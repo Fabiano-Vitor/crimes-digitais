@@ -95,6 +95,7 @@ Mantenha backups atualizados e use antivírus robustos.
 - Exemplo real:
   - 📰 Fake news sobre vacinas dificultam combate à pandemia, diz OMS — BBC News
 - Sinais de alerta:
+- 
   - Notícias sem fonte confiável.
   - Informação alarmante compartilhada em massa no WhatsApp e Facebook.
 
@@ -107,7 +108,7 @@ Sempre checar notícias em sites confiáveis ou agências de checagem (ex.: Agê
 - O que é: Phishing por voz — o golpista liga fingindo ser de bancos, empresas ou órgãos públicos para roubar informações pessoais.
 - Exemplo real:
   - 📰 Golpistas usam ligação falsa para aplicar golpe do falso gerente — R7
-Sinais de alerta:
+- Sinais de alerta
   - Ligações inesperadas pedindo senha, token bancário ou número de cartão.
 
 Dica:
