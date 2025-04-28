@@ -166,7 +166,14 @@ Marco Civil da Internet (Lei nº 12.965/2014): Regras de responsabilidade online
 LGPD (Lei Geral de Proteção de Dados - Lei nº 13.709/2018): Proteção de dados pessoais. <br>
 
 <h4> 🌐 Links Úteis </h4>
-🔗 Cartilha de Segurança CERT.br
-🔗 Manual de Crimes Cibernéticos — Polícia Federal
+
+[🔗 Cartilha de Segurança CERT.br](https://cartilha.cert.br/)
+[🔗 Manual de Crimes Cibernéticos — Polícia Federal](https://www.gov.br/pf/pt-br/assuntos/internet-e-crimes-ciberneticos)
 🔗 Como identificar aplicativos falsos — Serasa
 🔗 Orientações sobre promoções comerciais — Ministério da Economia
+
+
+
+
+
+
