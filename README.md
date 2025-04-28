@@ -1,10 +1,10 @@
-Crimes Digitais 🚔
-🚀 Sobre o Projeto
-📚 Repositório para conscientizar sobre crimes e golpes no ambiente digital.
+<h1>Crimes Digitais 🚔</h1>
+<h3>🚀 Sobre o Projeto</h3>
+📚 Repositório para conscientizar sobre crimes e golpes no ambiente digital.<br>
+🔎 Conteúdo educativo com exemplos reais e dicas de proteção.<br>
+<hr>
+<h4>📌 Tipos de Crimes Digitais</h4>
 
-🔎 Conteúdo educativo com exemplos reais e dicas de proteção.
-
-📌 Tipos de Crimes Digitais
 📂 1. Phishing
 O que é: Tentativa de roubar dados pessoais através de e-mails, SMS ou mensagens falsas.
 
@@ -14,6 +14,7 @@ Exemplo real:
 
 Dica: Sempre acesse sites oficiais digitando o endereço manualmente.
 
+<hr>
 📂 2. Roubo de Identidade
 O que é: Criminosos usam seus dados para cometer fraudes (abrir contas, pedir empréstimos).
 
@@ -22,6 +23,8 @@ Exemplo real:
 📰 Golpistas usam CPF de vítimas para empréstimos consignados — UOL Economia
 
 Dica: Consulte periodicamente seu CPF em serviços como Serasa, SPC e Registrato do Banco Central.
+
+<hr>
 
 📂 3. Golpes de Pirâmide Financeira
 O que é: "Investimentos" que dependem de novos participantes para se sustentar. Ilegal no Brasil.
@@ -38,6 +41,8 @@ Pressão para indicar novos membros.
 
 Falta de produto real.
 
+<hr>
+
 📂 4. Venda de Produtos Não Aprovados pela Anvisa
 O que é: Suplementos e cápsulas vendidas sem autorização oficial, muitas vezes enganando idosos.
 
@@ -47,6 +52,8 @@ Exemplo real:
 
 Dica: Antes de comprar, consulte se o produto é regularizado no site da Anvisa.
 
+<hr>
+
 📂 5. Golpe do Amor (Romance Scam)
 O que é: Criminosos fingem relacionamento amoroso para aplicar golpes financeiros.
 
@@ -55,6 +62,8 @@ Exemplo real:
 📰 Mulher perde R$ 200 mil em golpe do amor — R7
 
 Dica: Nunca envie dinheiro a desconhecidos. Pesquise imagens usadas no perfil.
+
+<hr>
 
 📂 6. Golpes com Rifas Irregulares e Influenciadores
 O que é: "Rifas" de carros, motos, prêmios, feitas sem autorização legal. Muitas vezes promovidas por influenciadores digitais sem saber (ou sabendo) que estão se envolvendo em golpes.
@@ -72,6 +81,8 @@ Promessas de sorteios milionários sem transparência de regras.
 Dica:
 Desconfie de qualquer "rife e ganhe" divulgado nas redes sociais sem comprovação legal.
 Se a promoção não tiver regras claras registradas, fuja!
+
+<hr>
 
 📂 7. Golpes de Aplicativos de Avaliação para Ganhar Dinheiro
 O que é: Apps falsos que prometem dinheiro fácil para "avaliar produtos", "clicar em anúncios" ou "responder pesquisas". No final, pedem depósito ou dados bancários.
@@ -92,6 +103,8 @@ Dica:
 Pesquise o app no Reclame Aqui e na Google Play/App Store antes de instalar.
 Desconfie de apps que pedem pagamento para liberar ganhos.
 
+<hr>
+
 📂 8. Ransomware (Sequestro de Dados)
 O que é: Malware que bloqueia dados de uma empresa ou pessoa e exige pagamento de "resgate" para liberar.
 
@@ -108,6 +121,8 @@ Mensagem de resgate exigindo pagamento em criptomoedas.
 Dica:
 
 Mantenha backups atualizados e use antivírus robustos.
+
+<hr>
 
 📂 9. Fake News e Desinformação
 O que é: Divulgação de informações falsas para manipular opiniões ou gerar confusão, especialmente em redes sociais.
@@ -126,6 +141,8 @@ Dica:
 
 Sempre checar notícias em sites confiáveis ou agências de checagem (ex.: Agência Lupa, Aos Fatos).
 
+<hr>
+
 📂 10. Vishing (Golpe por telefone)
 O que é: Phishing por voz — o golpista liga fingindo ser de bancos, empresas ou órgãos públicos para roubar informações pessoais.
 
@@ -141,12 +158,14 @@ Dica:
 
 Bancos nunca pedem dados sensíveis por telefone. Em caso de dúvida, desligue e ligue para o número oficial da empresa.
 
-📚 Principais Leis Relacionadas
-Lei Carolina Dieckmann (Lei nº 12.737/2012): Invasão de dispositivos eletrônicos.
-Marco Civil da Internet (Lei nº 12.965/2014): Regras de responsabilidade online.
-LGPD (Lei Geral de Proteção de Dados - Lei nº 13.709/2018): Proteção de dados pessoais.
+<hr>
 
-🌐 Links Úteis
+<h4>📚 Principais Leis Relacionadas</h4>
+Lei Carolina Dieckmann (Lei nº 12.737/2012): Invasão de dispositivos eletrônicos. <br>
+Marco Civil da Internet (Lei nº 12.965/2014): Regras de responsabilidade online. <br>
+LGPD (Lei Geral de Proteção de Dados - Lei nº 13.709/2018): Proteção de dados pessoais. <br>
+
+<h4> 🌐 Links Úteis </h4>
 🔗 Cartilha de Segurança CERT.br
 🔗 Manual de Crimes Cibernéticos — Polícia Federal
 🔗 Como identificar aplicativos falsos — Serasa
