@@ -93,9 +93,8 @@ Mantenha backups atualizados e use antivírus robustos.
 📂 9. Fake News e Desinformação
 - O que é: Divulgação de informações falsas para manipular opiniões ou gerar confusão, especialmente em redes sociais.
 - Exemplo real:
-  - 📰 Fake news sobre vacinas dificultam combate à pandemia, diz OMS — BBC News
+  - 📰 [Fake news sobre vacinas dificultam combate à pandemia, diz OMS — BBC News](https://www.bbc.com/portuguese/geral-53795050)
 - Sinais de alerta:
-- 
   - Notícias sem fonte confiável.
   - Informação alarmante compartilhada em massa no WhatsApp e Facebook.
 
@@ -107,7 +106,7 @@ Sempre checar notícias em sites confiáveis ou agências de checagem (ex.: Agê
 📂 10. Vishing (Golpe por telefone)
 - O que é: Phishing por voz — o golpista liga fingindo ser de bancos, empresas ou órgãos públicos para roubar informações pessoais.
 - Exemplo real:
-  - 📰 Golpistas usam ligação falsa para aplicar golpe do falso gerente — R7
+  - 📰 [Golpistas usam ligação falsa para aplicar golpe do falso gerente — R7](https://noticias.r7.com/economia/febraban-alerta-para-o-golpe-do-falso-funcionario-de-banco-08022023/)
 - Sinais de alerta
   - Ligações inesperadas pedindo senha, token bancário ou número de cartão.
 
