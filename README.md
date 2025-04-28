@@ -8,7 +8,7 @@
 📂 1. Phishing
 - O que é: Tentativa de roubar dados pessoais através de e-mails, SMS ou mensagens falsas.
 - Exemplo real:
-  - 📰 [Golpe do falso e-mail da Receita Federal rouba dados de contribuintes — G1](https://g1.globo.com/economia/tecnologia/noticia/2022/03/28/golpe-do-falso-e-mail-da-receita-federal-rouba-dados.ghtml)
+  - 📰 [Golpe do falso e-mail da Receita Federal rouba dados de contribuintes — GOV](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2025/abril/receita-federal-alerta-criminosos-simulam-enderecos-de-e-mail-do-orgao-para-aplicar-golpes#:~:text=Como%20funciona%20o%20golpe%3F,ou%20%22imitar%22%20em%20ingl%C3%AAs.)
 - Dica: Sempre acesse sites oficiais digitando o endereço manualmente.
 
 <hr>
@@ -16,7 +16,7 @@
 
 - O que é Criminosos usam seus dados para cometer fraudes (abrir contas, pedir empréstimos).
 - Exemplo real:
-  - 📰 [Golpistas usam CPF de vítimas para empréstimos consignados — UOL Economia](https://economia.uol.com.br/noticias/redacao/2022/11/21/golpe-cadastro-cpf-emprestimo-consignado.htm)
+  - 📰 [Golpistas usam CPF de vítimas para empréstimos consignados como se prevenir— UOL](https://blog.pagseguro.uol.com.br/golpe-do-emprestimo-consignado/)
 - Dica: Consulte periodicamente seu CPF em serviços como Serasa, SPC e Registrato do Banco Central.
 
 <hr>
@@ -24,7 +24,7 @@
 📂 3. Golpes de Pirâmide Financeira
 - O que é: "Investimentos" que dependem de novos participantes para se sustentar. Ilegal no Brasil.
 - Exemplo real:
-  - 📰 Empresa de pirâmide financeira prejudica mais de 10 mil investidores — G1
+  - 📰 [Empresa de pirâmide financeira prejudica mais de 10 mil investidores — G1](https://g1.globo.com/fantastico/noticia/2023/10/01/exclusivo-golpe-de-piramides-com-criptomoedas-movimentou-quase-r-100-bilhoes-em-seis-anos.ghtml)
 - Sinais de alerta:
   - Retornos muito altos e rápidos.
   - Pressão para indicar novos membros.
@@ -35,7 +35,7 @@
 📂 4. Venda de Produtos Não Aprovados pela Anvisa
  - O que é: Suplementos e cápsulas vendidas sem autorização oficial, muitas vezes enganando idosos.
  - Exemplo real:
-   - 📰 Anvisa alerta para venda ilegal de cápsulas milagrosas — CNN Brasil
+   - 📰 [Anvisa alerta para venda ilegal de cápsulas milagrosas — GOV](https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2018/medicamentos---cuidado-com-promessas-milagrosas)
  - Dica: Antes de comprar, consulte se o produto é regularizado no site da Anvisa.
 
 <hr>
@@ -43,7 +43,7 @@
 📂 5. Golpe do Amor (Romance Scam)
 - O que é: Criminosos fingem relacionamento amoroso para aplicar golpes financeiros.
 - Exemplo real:
-  - 📰 Mulher perde R$ 200 mil em golpe do amor — R7
+  - 📰 [Mulher perde R$ 200 mil em golpe do amor — R7](https://noticias.r7.com/goias/balanco-geral-goias/mulher-perde-r-200-mil-em-golpe-do-falso-intermediario-24042025/?utm_source=share&utm_medium=share-bar&utm_campaign=r7-topo)
 - Dica: Nunca envie dinheiro a desconhecidos. Pesquise imagens usadas no perfil.
 
 <hr>
@@ -51,7 +51,7 @@
 📂 6. Golpes com Rifas Irregulares e Influenciadores
  - O que é: "Rifas" de carros, motos, prêmios, feitas sem autorização legal. Muitas vezes promovidas por influenciadores digitais sem saber (ou sabendo) que estão se envolvendo em golpes.
  - Exemplo real:
-   - 📰 Influenciador é investigado por rifas ilegais no Instagram — G1
+   - 📰 [Influenciador é investigado por rifas ilegais no Instagram — G1](https://g1.globo.com/pr/parana/noticia/2024/08/21/influenciadores-digitais-investigados-por-promover-rifas-ilegais-nas-redes-sociais-veja-o-que-se-sabe-sobre-o-caso.ghtml)
 - Sinais de alerta:
    - Rifas sem registro ou autorização em órgãos oficiais (no Brasil, as rifas precisam de autorização da SEFEL).
    - Promessas de sorteios milionários sem transparência de regras.
