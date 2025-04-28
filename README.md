@@ -172,6 +172,8 @@ LGPD (Lei Geral de Proteção de Dados - Lei nº 13.709/2018): Proteção de dad
 - [🔗 Apps ou Aplicações Falsas: Como Identificá-las e Evitar sua Instalação - espanhol](https://www.redseguridad.com/actualidad/cibercrimen/apps-o-aplicaciones-falsas-como-identificarlas-y-evitar-su-descarga_20220124.html) <br>
 - [🔗 Orientações sobre promoções comerciais — Ministério da Economia](https://scpc.seae.fazenda.gov.br/)
 
+✍️ Autor
+Fabiano Vitor de Souza Tavares
 
 
 
