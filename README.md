@@ -41,28 +41,20 @@
 <hr>
 
 📂 5. Golpe do Amor (Romance Scam)
-O que é: Criminosos fingem relacionamento amoroso para aplicar golpes financeiros.
-
-Exemplo real:
-
-📰 Mulher perde R$ 200 mil em golpe do amor — R7
-
-Dica: Nunca envie dinheiro a desconhecidos. Pesquise imagens usadas no perfil.
+- O que é: Criminosos fingem relacionamento amoroso para aplicar golpes financeiros.
+- Exemplo real:
+  - 📰 Mulher perde R$ 200 mil em golpe do amor — R7
+- Dica: Nunca envie dinheiro a desconhecidos. Pesquise imagens usadas no perfil.
 
 <hr>
 
 📂 6. Golpes com Rifas Irregulares e Influenciadores
-O que é: "Rifas" de carros, motos, prêmios, feitas sem autorização legal. Muitas vezes promovidas por influenciadores digitais sem saber (ou sabendo) que estão se envolvendo em golpes.
-
-Exemplo real:
-
-📰 Influenciador é investigado por rifas ilegais no Instagram — G1
-
-Sinais de alerta:
-
-Rifas sem registro ou autorização em órgãos oficiais (no Brasil, as rifas precisam de autorização da SEFEL).
-
-Promessas de sorteios milionários sem transparência de regras.
+ - O que é: "Rifas" de carros, motos, prêmios, feitas sem autorização legal. Muitas vezes promovidas por influenciadores digitais sem saber (ou sabendo) que estão se envolvendo em golpes.
+ - Exemplo real:
+   - 📰 Influenciador é investigado por rifas ilegais no Instagram — G1
+- Sinais de alerta:
+   - Rifas sem registro ou autorização em órgãos oficiais (no Brasil, as rifas precisam de autorização da SEFEL).
+   - Promessas de sorteios milionários sem transparência de regras.
 
 Dica:
 Desconfie de qualquer "rife e ganhe" divulgado nas redes sociais sem comprovação legal.
@@ -71,19 +63,13 @@ Se a promoção não tiver regras claras registradas, fuja!
 <hr>
 
 📂 7. Golpes de Aplicativos de Avaliação para Ganhar Dinheiro
-O que é: Apps falsos que prometem dinheiro fácil para "avaliar produtos", "clicar em anúncios" ou "responder pesquisas". No final, pedem depósito ou dados bancários.
-
-Exemplo real:
-
-📰 Golpe do app de avaliações atinge milhares de vítimas — TecMundo
-
-Sinais de alerta:
-
-Promessa de ganho rápido sem esforço ("ganhe R$ 500 por dia só avaliando produtos").
-
-Solicitação de pagamento inicial para "desbloquear" ganhos.
-
-Depósito de valores falsos para atrair confiança, seguido de pedido de dinheiro.
+- O que é: Apps falsos que prometem dinheiro fácil para "avaliar produtos", "clicar em anúncios" ou "responder pesquisas". No final, pedem depósito ou dados bancários.
+- Exemplo real:
+  - 📰 Golpe do app de avaliações atinge milhares de vítimas — TecMundo
+- Sinais de alerta:
+  - Promessa de ganho rápido sem esforço ("ganhe R$ 500 por dia só avaliando produtos").
+  - Solicitação de pagamento inicial para "desbloquear" ganhos.
+  - Depósito de valores falsos para atrair confiança, seguido de pedido de dinheiro.
 
 Dica:
 Pesquise o app no Reclame Aqui e na Google Play/App Store antes de instalar.
@@ -92,56 +78,39 @@ Desconfie de apps que pedem pagamento para liberar ganhos.
 <hr>
 
 📂 8. Ransomware (Sequestro de Dados)
-O que é: Malware que bloqueia dados de uma empresa ou pessoa e exige pagamento de "resgate" para liberar.
-
-Exemplo real:
-
-📰 Ataque de ransomware paralisa sistemas da JBS, maior processadora de carne do mundo — G1
-
-Sinais de alerta:
-
-Arquivos bloqueados ou criptografados.
-
-Mensagem de resgate exigindo pagamento em criptomoedas.
+- O que é: Malware que bloqueia dados de uma empresa ou pessoa e exige pagamento de "resgate" para liberar.
+- Exemplo real:
+  - 📰 Ataque de ransomware paralisa sistemas da JBS, maior processadora de carne do mundo — G1
+- Sinais de alerta:
+  - Arquivos bloqueados ou criptografados.
+  - Mensagem de resgate exigindo pagamento em criptomoedas.
 
 Dica:
-
 Mantenha backups atualizados e use antivírus robustos.
 
 <hr>
 
 📂 9. Fake News e Desinformação
-O que é: Divulgação de informações falsas para manipular opiniões ou gerar confusão, especialmente em redes sociais.
-
-Exemplo real:
-
-📰 Fake news sobre vacinas dificultam combate à pandemia, diz OMS — BBC News
-
-Sinais de alerta:
-
-Notícias sem fonte confiável.
-
-Informação alarmante compartilhada em massa no WhatsApp e Facebook.
+- O que é: Divulgação de informações falsas para manipular opiniões ou gerar confusão, especialmente em redes sociais.
+- Exemplo real:
+  - 📰 Fake news sobre vacinas dificultam combate à pandemia, diz OMS — BBC News
+- Sinais de alerta:
+  - Notícias sem fonte confiável.
+  - Informação alarmante compartilhada em massa no WhatsApp e Facebook.
 
 Dica:
-
 Sempre checar notícias em sites confiáveis ou agências de checagem (ex.: Agência Lupa, Aos Fatos).
 
 <hr>
 
 📂 10. Vishing (Golpe por telefone)
-O que é: Phishing por voz — o golpista liga fingindo ser de bancos, empresas ou órgãos públicos para roubar informações pessoais.
-
-Exemplo real:
-
-📰 Golpistas usam ligação falsa para aplicar golpe do falso gerente — R7
-
+- O que é: Phishing por voz — o golpista liga fingindo ser de bancos, empresas ou órgãos públicos para roubar informações pessoais.
+- Exemplo real:
+  - 📰 Golpistas usam ligação falsa para aplicar golpe do falso gerente — R7
 Sinais de alerta:
-
-Ligações inesperadas pedindo senha, token bancário ou número de cartão.
+  - Ligações inesperadas pedindo senha, token bancário ou número de cartão.
 
 Dica:
-
 Bancos nunca pedem dados sensíveis por telefone. Em caso de dúvida, desligue e ligue para o número oficial da empresa.
 
 <hr>
