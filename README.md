@@ -13,41 +13,30 @@
 
 <hr>
 📂 2. Roubo de Identidade
-O que é: Criminosos usam seus dados para cometer fraudes (abrir contas, pedir empréstimos).
 
-Exemplo real:
-
-📰 Golpistas usam CPF de vítimas para empréstimos consignados — UOL Economia
-
-Dica: Consulte periodicamente seu CPF em serviços como Serasa, SPC e Registrato do Banco Central.
+- O que é Criminosos usam seus dados para cometer fraudes (abrir contas, pedir empréstimos).
+- Exemplo real:
+  - 📰 [Golpistas usam CPF de vítimas para empréstimos consignados — UOL Economia](https://economia.uol.com.br/noticias/redacao/2022/11/21/golpe-cadastro-cpf-emprestimo-consignado.htm)
+- Dica: Consulte periodicamente seu CPF em serviços como Serasa, SPC e Registrato do Banco Central.
 
 <hr>
 
 📂 3. Golpes de Pirâmide Financeira
-O que é: "Investimentos" que dependem de novos participantes para se sustentar. Ilegal no Brasil.
-
-Exemplo real:
-
-📰 Empresa de pirâmide financeira prejudica mais de 10 mil investidores — G1
-
-Sinais de alerta:
-
-Retornos muito altos e rápidos.
-
-Pressão para indicar novos membros.
-
-Falta de produto real.
+- O que é: "Investimentos" que dependem de novos participantes para se sustentar. Ilegal no Brasil.
+- Exemplo real:
+  - 📰 Empresa de pirâmide financeira prejudica mais de 10 mil investidores — G1
+- Sinais de alerta:
+  - Retornos muito altos e rápidos.
+  - Pressão para indicar novos membros.
+  - Falta de produto real.
 
 <hr>
 
 📂 4. Venda de Produtos Não Aprovados pela Anvisa
-O que é: Suplementos e cápsulas vendidas sem autorização oficial, muitas vezes enganando idosos.
-
-Exemplo real:
-
-📰 Anvisa alerta para venda ilegal de cápsulas milagrosas — CNN Brasil
-
-Dica: Antes de comprar, consulte se o produto é regularizado no site da Anvisa.
+ - O que é: Suplementos e cápsulas vendidas sem autorização oficial, muitas vezes enganando idosos.
+ - Exemplo real:
+   - 📰 Anvisa alerta para venda ilegal de cápsulas milagrosas — CNN Brasil
+ - Dica: Antes de comprar, consulte se o produto é regularizado no site da Anvisa.
 
 <hr>
 
