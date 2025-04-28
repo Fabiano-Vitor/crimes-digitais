@@ -167,10 +167,10 @@ LGPD (Lei Geral de Proteção de Dados - Lei nº 13.709/2018): Proteção de dad
 
 <h4> 🌐 Links Úteis </h4>
 
-[🔗 Cartilha de Segurança CERT.br](https://cartilha.cert.br/)
-[🔗 Manual de Crimes Cibernéticos — Polícia Federal](https://www.gov.br/pf/pt-br/assuntos/internet-e-crimes-ciberneticos)
-🔗 Como identificar aplicativos falsos — Serasa
-🔗 Orientações sobre promoções comerciais — Ministério da Economia
+[🔗 Cartilha de Segurança CERT.br](https://cartilha.cert.br/) <br>
+[🔗 Manual de Crimes Cibernéticos — Polícia Federal](https://www.gov.br/pf/pt-br/assuntos/internet-e-crimes-ciberneticos) <br>
+[🔗 Como identificar aplicativos falsos — Serasa](https://www.serasa.com.br/serasa-consumidor/blog/seguranca/como-identificar-aplicativos-falsos/) <br>
+[🔗 Orientações sobre promoções comerciais — Ministério da Economia](https://www.gov.br/economia/pt-br/assuntos/sefel/acoes-e-programas/sorteios-promocionais)
 
 
 
