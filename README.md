@@ -6,13 +6,10 @@
 <h4>📌 Tipos de Crimes Digitais</h4>
 
 📂 1. Phishing
-O que é: Tentativa de roubar dados pessoais através de e-mails, SMS ou mensagens falsas.
-
-Exemplo real:
-
-📰 Golpe do falso e-mail da Receita Federal rouba dados de contribuintes — G1
-
-Dica: Sempre acesse sites oficiais digitando o endereço manualmente.
+- O que é: Tentativa de roubar dados pessoais através de e-mails, SMS ou mensagens falsas.
+- Exemplo real:
+  - 📰 [Golpe do falso e-mail da Receita Federal rouba dados de contribuintes — G1](https://g1.globo.com/economia/tecnologia/noticia/2022/03/28/golpe-do-falso-e-mail-da-receita-federal-rouba-dados.ghtml)
+- Dica: Sempre acesse sites oficiais digitando o endereço manualmente.
 
 <hr>
 📂 2. Roubo de Identidade
